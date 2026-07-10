@@ -156,6 +156,7 @@ footer {
 
   nav > a.logo{
     margin-right: 0;
+    margin-bottom: 12px;
   }
 
   nav > a:not(:first-of-type) {
